@@ -1,28 +1,26 @@
-2019-12-23 11:13:33.348  INFO 243708 --- [main] c.ex.gateway.rest.book.BookApplication   : Starting BookApplication on HYDPCM283953L with PID 243708 (D:\WorkSpace2\book\target\classes started by Venkata.Nandam in D:\WorkSpace2\book)
-2019-12-23 11:13:33.369  INFO 243708 --- [main] c.ex.gateway.rest.book.BookApplication   : No active profile set, falling back to default profiles: default
-2019-12-23 11:13:35.469  INFO 243708 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
-2019-12-23 11:13:35.483  INFO 243708 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2019-12-23 11:13:35.484  INFO 243708 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
-2019-12-23 11:13:35.608  INFO 243708 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2019-12-23 11:13:35.608  INFO 243708 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2140 ms
-2019-12-23 11:13:35.857  INFO 243708 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
-2019-12-23 11:13:36.098  INFO 243708 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
-2019-12-23 11:13:36.104  INFO 243708 --- [main] c.ex.gateway.rest.book.BookApplication   : Started BookApplication in 3.568 seconds (JVM running for 4.203)
-2019-12-23 11:21:53.573  INFO 243708 --- [http-nio-8090-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
-2019-12-23 11:21:53.574  INFO 243708 --- [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
-2019-12-23 11:21:53.586  INFO 243708 --- [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 12 ms
-2019-12-23 11:25:52.421  INFO 243708 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
-2019-12-23 15:05:04.843  INFO 266140 --- [main] c.ex.gateway.rest.book.BookApplication   : Starting BookApplication on HYDPCM283953L with PID 266140 (D:\WorkSpace2\book\target\classes started by Venkata.Nandam in D:\WorkSpace2\book)
-2019-12-23 15:05:04.849  INFO 266140 --- [main] c.ex.gateway.rest.book.BookApplication   : No active profile set, falling back to default profiles: default
-2019-12-23 15:05:06.976  INFO 266140 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
-2019-12-23 15:05:06.989  INFO 266140 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2019-12-23 15:05:06.990  INFO 266140 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
-2019-12-23 15:05:07.111  INFO 266140 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2019-12-23 15:05:07.112  INFO 266140 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2138 ms
-2019-12-23 15:05:07.416  INFO 266140 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
-2019-12-23 15:05:07.772  INFO 266140 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
-2019-12-23 15:05:07.777  INFO 266140 --- [main] c.ex.gateway.rest.book.BookApplication   : Started BookApplication in 3.735 seconds (JVM running for 4.405)
-2019-12-23 15:06:02.904  INFO 266140 --- [http-nio-8090-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
-2019-12-23 15:06:02.904  INFO 266140 --- [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
-2019-12-23 15:06:02.918  INFO 266140 --- [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 13 ms
-2019-12-23 15:10:56.297  INFO 266140 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-12-31 00:18:01.723  INFO 79660 --- [main] c.e.c.CircuitBreakerBookstoreApplication : Starting CircuitBreakerBookstoreApplication on HYDPCM283953L with PID 79660 (D:\WorkSpace2\book\target\classes started by Venkata.Nandam in D:\WorkSpace2\book)
+2019-12-31 00:18:01.738  INFO 79660 --- [main] c.e.c.CircuitBreakerBookstoreApplication : No active profile set, falling back to default profiles: default
+2019-12-31 00:18:03.627  INFO 79660 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2019-12-31 00:18:03.640  INFO 79660 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-12-31 00:18:03.640  INFO 79660 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2019-12-31 00:18:03.812  INFO 79660 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-12-31 00:18:03.813  INFO 79660 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1960 ms
+2019-12-31 00:18:04.075  INFO 79660 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-31 00:18:04.328  INFO 79660 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2019-12-31 00:18:04.332  INFO 79660 --- [main] c.e.c.CircuitBreakerBookstoreApplication : Started CircuitBreakerBookstoreApplication in 3.266 seconds (JVM running for 3.838)
+2019-12-31 00:18:39.588  INFO 79660 --- [http-nio-8090-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-12-31 00:18:39.589  INFO 79660 --- [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-12-31 00:18:39.598  INFO 79660 --- [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 9 ms
+2019-12-31 00:27:58.373  INFO 83752 --- [main] c.e.c.CircuitBreakerBookstoreApplication : Starting CircuitBreakerBookstoreApplication on HYDPCM283953L with PID 83752 (D:\WorkSpace2\book\target\classes started by Venkata.Nandam in D:\WorkSpace2\book)
+2019-12-31 00:27:58.380  INFO 83752 --- [main] c.e.c.CircuitBreakerBookstoreApplication : No active profile set, falling back to default profiles: default
+2019-12-31 00:28:00.326  INFO 83752 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2019-12-31 00:28:00.336  INFO 83752 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-12-31 00:28:00.336  INFO 83752 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2019-12-31 00:28:00.492  INFO 83752 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-12-31 00:28:00.492  INFO 83752 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1993 ms
+2019-12-31 00:28:00.766  INFO 83752 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-31 00:28:01.030  INFO 83752 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2019-12-31 00:28:01.033  INFO 83752 --- [main] c.e.c.CircuitBreakerBookstoreApplication : Started CircuitBreakerBookstoreApplication in 3.332 seconds (JVM running for 3.943)
+2019-12-31 00:30:33.679  INFO 83752 --- [http-nio-8090-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-12-31 00:30:33.680  INFO 83752 --- [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-12-31 00:30:33.691  INFO 83752 --- [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 11 ms
